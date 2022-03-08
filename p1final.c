@@ -2,9 +2,9 @@
 
 void input(int *num1, int *den1, int *num2, int *den2)
 {
-printf("enter the numberater\n");
+printf("enter the numerators\n");
 scanf("%d %d",num1,num2);
-printf("enter the denomenator\n");
+printf("enter the denomenators\n");
 scanf("%d  %d",den1,den2);
 }
 void add(int num1,int den1, int num2, int den2, int *num3, int *den3)
